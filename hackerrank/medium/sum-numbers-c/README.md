@@ -46,14 +46,12 @@ Print the sum and difference of both integers separated by a space on the first 
 **Language:** C  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-03T04:45:29.624Z  
+**Submitted:** 2026-10-03T04:47:23.344Z  
 
 ```c
 #include <stdio.h>
 
-int main() 
-
-{
+int main() {
     int int1, int2;
     float float1, float2;
     

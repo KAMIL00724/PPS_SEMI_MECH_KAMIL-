@@ -72,8 +72,6 @@ If $1 \le n \le 9$, then print the lowercase English word corresponding to the n
 
 ```c
 #include <stdio.h>
-#include <stdlib.h>
-#include <string.h>
 
 int main() {
     int n;
